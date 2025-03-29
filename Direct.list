@@ -1,15 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
 # MyList
-
-
-# emby
-DOMAIN-KEYWORD,temby
-DOMAIN-SUFFIX,makima.online
-DOMAIN,cdn.lyrebirdemby.com
-IP-CIDR,188.172.228.65/32
-DOMAIN,wmxz.567996.xyz
-DOMAIN,emby.69yun69.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -33,6 +23,14 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+
+# eb
+DOMAIN-KEYWORD,temby
+DOMAIN,cdn.lyrebirdemby.com
+IP-CIDR,188.172.228.65/32
+DOMAIN,emby.69yun69.com
+DOMAIN-SUFFIX,makima.online
+DOMAIN,wmxz.567996.xyz
 
 
 
