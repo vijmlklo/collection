@@ -1,8 +1,9 @@
-# 内容：OpenAi Bard anthropic
+# 内容：ai补充、bybit
 # 域名关键字匹配
 DOMAIN-KEYWORD,genspark
 DOMAIN-KEYWORD,sspark
-DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,bybit
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -17,6 +18,11 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,anthropic.com
-
 DOMAIN,aistudio.google.com
+
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
