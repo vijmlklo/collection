@@ -3,9 +3,11 @@
 DOMAIN-KEYWORD,genspark
 DOMAIN-KEYWORD,sspark
 DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,anthropic
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
@@ -19,6 +21,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,anthropic.com
 
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.biz
