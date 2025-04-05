@@ -2,7 +2,6 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,genspark
 DOMAIN-KEYWORD,sspark
-DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,anthropic
 
 # 域名后缀匹配
