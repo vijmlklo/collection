@@ -26,11 +26,10 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # eb
 DOMAIN-KEYWORD,temby
-DOMAIN,cdn.lyrebirdemby.com
-IP-CIDR,188.172.228.65/32
+
 DOMAIN,emby.69yun69.com
 DOMAIN-SUFFIX,makima.online
-DOMAIN,wmxz.567996.xyz
+
 
 
 
