@@ -1,5 +1,5 @@
 # 内容：ai
-# 域名关键字匹配
+payload:
 - DOMAIN-KEYWORD,genspark
 - DOMAIN-KEYWORD,sspark
 - DOMAIN-KEYWORD,perplexity
@@ -75,3 +75,4 @@
 #grok
 - DOMAIN-SUFFIX,x.ai
 - DOMAIN-SUFFIX,grok.com
+
